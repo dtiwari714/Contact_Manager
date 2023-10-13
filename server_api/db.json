@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "email": "bob@example.com"
+    },
+    {
+      "id": "60d5ea6b-0549-43d6-9ff3-c669576d06dd",
+      "name": "Durgesh",
+      "email": "dtiwari714@rku.ac.in"
+    },
+    {
+      "id": "a61c0a89-2b77-40b7-9f2d-9ba95a892460",
+      "name": "Durgesh",
+      "email": "durgesh123@gmail.com"
+    }
+  ]
+}
