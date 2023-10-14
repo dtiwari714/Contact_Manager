@@ -9,7 +9,8 @@ This is a simple Contact Manager application built using React. It allows you to
 - Edit contact information.
 - Delete contacts.
 - Search for contacts.
-- 
+
+  
 ## Installation
 
 To run this project locally, follow these steps:
